@@ -8,6 +8,4 @@ Al marcar y detectar cada vértice, identifico en la obra la complejidad de sus 
 
 Con el orden ya definido, antes de crear las figuras utilizo la herramienta de cuentagotas para identificar los colores presentes en la obra y luego los incorporo en el programa.
 
-
-
-
+![image alt] (https://github.com/Mppinax/SOLEMNE-1-El-Lissitzky.js/blob/10fc153894cba2e3a9322c5d49904ae2b9902dac/guias.png)
