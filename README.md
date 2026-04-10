@@ -7,8 +7,6 @@ La obra Proun, um forma parte de la serie Proun de El Lissitzky en 1923, cuyo no
 ## Proceso
 Para escoger la obra, recordé un trabajo que hice el semestre pasado en Cultura del Diseño, donde investigué la escuela Vkhutemas. Ahí conocí a El Lissitzky, una de sus figuras más importantes, cuyas obras se caracterizan por la abstracción. Sumado a eso, la estética del Constructivismo me interesa mucho, así que fue una elección bastante natural.
 
-Para escoger la obra, recordé un trabajo que hice el semestre pasado en Cultura del Diseño, donde investigué la escuela Vkhutemas. Ahí conocí a El Lissitzky, una de sus figuras más importantes, cuyas obras se caracterizan por la abstracción. Sumado a eso, la estética del Constructivismo me interesa mucho, así que fue una elección bastante natural.
-
 Con la obra seleccionada, la abro en la herramienta de Canva, donde marco cada vértice de las figuras utilizando guías, lo que permite visualizar sus coordenadas exactas dentro de la composición original.
 
 Al marcar y detectar cada vértice, identifico en la obra la complejidad de sus profundidades y superposiciones. Por ello, procedo a numerar y ordenar las figuras, para definir el orden en que debo colocarlas dentro del programa.
