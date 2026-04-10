@@ -14,7 +14,7 @@ Con el orden ya definido, antes de crear las figuras utilizo la herramienta de c
 ![image alt](https://github.com/Mppinax/SOLEMNE-1-El-Lissitzky.js/blob/10fc153894cba2e3a9322c5d49904ae2b9902dac/guias.png) 
 
 ## Complicaciones 
-- El tamaño original de la obra es de 788 × 1000 px. En el canvas usé la mitad de ese tamaño para que no quedara tan grande. El problema fue que las coordenadas de las guías ya no coincidían, así que al principio tuve que dividir todas por 2 para que encajaran. Hice gran parte del trabajo así, pero después busqué una forma más eficiente y encontré *scale(0.5)*, lo que me permitió eliminar todos los */2* y simplificar el proceso.
+- El tamaño original de la obra es de 788 × 1000 px. En el canvas usé la mitad de ese tamaño para que no quedara tan grande. El problema fue que las coordenadas de las guías ya no coincidían, así que al principio tuve que dividir todas por 2 para que encajaran. Hice gran parte del trabajo así, pero después busqué una forma más eficiente y encontré *"scale(0.5)"*, lo que me permitió eliminar todos los *"/2"* y simplificar el proceso.
   
 - Al principio, especialmente con los cuadrados, estaba ordenando mal los vértices. En vez de seguir el orden 1, 2, 3, 4, los colocaba como 1, 2, 4, 3. Por eso, en lugar de verse como un cuadrado, se formaban dos triángulos reflejados, como si la figura tuviera una torsión en el centro.
   
