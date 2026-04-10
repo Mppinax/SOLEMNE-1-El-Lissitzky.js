@@ -13,9 +13,17 @@ Con el orden ya definido, antes de crear las figuras utilizo la herramienta de c
 
 ![image alt](https://github.com/Mppinax/SOLEMNE-1-El-Lissitzky.js/blob/10fc153894cba2e3a9322c5d49904ae2b9902dac/guias.png)
 
-##Complicaciones 
+## Complicaciones 
 - El tamaño original de la obra es de 788 × 1000 px. En el canvas usé la mitad de ese tamaño para que no quedara tan grande. El problema fue que las coordenadas de las guías ya no coincidían, así que al principio tuve que dividir todas por 2 para que encajaran. Hice gran parte del trabajo así, pero después busqué una forma más eficiente y encontré *scale(0.5)*, lo que me permitió eliminar todos los */2* y simplificar el proceso.
+  
 - Al principio, especialmente con los cuadrados, estaba ordenando mal los vértices. En vez de seguir el orden 1, 2, 3, 4, los colocaba como 1, 2, 4, 3. Por eso, en lugar de verse como un cuadrado, se formaban dos triángulos reflejados, como si la figura tuviera una torsión en el centro.
+  
 - El cuentagotas me entregaba los colores en formato hexadecimal, así que tenía que pasarlos por un conversor para obtenerlos en RGB y poder usarlos en el programa.
+  
 - En la obra original se aprecia el rastro de la brocha en la pintura, pero no logré replicar ese efecto en el programa, ya que los colores se ven demasiado homogéneos. Intenté bajar la opacidad en algunos tonos, pero no me convenció, porque la transparencia se aplica de forma uniforme y no de manera irregular, como ocurre con las pinceladas reales.
-- No pude asistir a la clase del 27 de marzo, que fue cuando se explicó el uso de GitHub, así que hacer este documento me costó bastante. Aun así, con los slides de la clase y algunos tutoriales, logré entender lo básico. 
+  
+- No pude asistir a la clase del 27 de marzo, que fue cuando se explicó el uso de GitHub, así que hacer este documento me costó bastante. Aun así, con los slides de la clase y algunos tutoriales, logré entender lo básico.
+
+## RESULTADO 
+
+
