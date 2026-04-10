@@ -1,5 +1,8 @@
 # SOLEMNE-1-El-Lissitzky.js
 ## Solemne 1 Pensamiento computacional Maximiliano Piña
+![imagen](https://www.meisterdrucke.com/kunstwerke/1000px/Eliezer_Markowich_Lissitzky_-_Proun_ca_1923_-_%28MeisterDrucke-724036%29.jpg)
+[link](https://www.meisterdrucke.com/kunstdrucke/Eliezer-Markowich-Lissitzky/724036/Proun,-um-1923.html)
+
 La obra Proun, um forma parte de la serie Proun de El Lissitzky en 1923, cuyo nombre proviene del acrónimo ruso “Proyecto para la afirmación de lo nuevo”. En esta entrega, busco recrear la obra utilizando p5.js.
 ## Proceso
 Con la obra seleccionada, la abro en la herramienta de Canva, donde marco cada vértice de las figuras utilizando guías, lo que permite visualizar sus coordenadas exactas dentro de la composición original.
